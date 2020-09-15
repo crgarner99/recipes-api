@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "5f51b2e5978dc37ee067f119"
+  },
+  "name": "Arroz Con Pollo",
+  "category": "meat",
+  "ingredients": "pollo, arroz, vegetales",
+  "instructions": "hazlo ya",
+  "prepTime": "35 min",
+  "totalTime": "60 min",
+  "serves": "12 people"
+},{
+  "_id": {
+    "$oid": "5f598c9d0750f302b8d8566b"
+  },
+  "name": "Recipe 1",
+  "category": "soups",
+  "ingredients": "recipe 1",
+  "instructions": "recipe 1",
+  "prepTime": "60 min",
+  "totalTime": "60 min",
+  "serves": "12 people"
+},{
+  "_id": {
+    "$oid": "5f598cb10750f302b8d8566c"
+  },
+  "name": "recipe 2",
+  "category": "snacks",
+  "ingredients": "recipe 2",
+  "instructions": "recipe 2",
+  "prepTime": "25 min",
+  "totalTime": "25 min",
+  "serves": "5 people"
+},{
+  "_id": {
+    "$oid": "5f598cc70750f302b8d8566d"
+  },
+  "name": "Recipe 3",
+  "category": "appetizer",
+  "ingredients": "Recipe 3",
+  "instructions": "Recipe 3",
+  "prepTime": "20 min",
+  "totalTime": "40 min",
+  "serves": "6 people"
+},{
+  "_id": {
+    "$oid": "5f5993030750f302b8d8566e"
+  },
+  "name": "Recipe 4",
+  "category": "appetizer",
+  "ingredients": "Recipe 4",
+  "instructions": "Recipe 4",
+  "prepTime": "15 min",
+  "totalTime": "15 min",
+  "serves": "5 people"
+},{
+  "_id": {
+    "$oid": "5f5993350750f302b8d8566f"
+  },
+  "name": "Recipe 5",
+  "category": "baking",
+  "ingredients": "Recipe 5",
+  "instructions": "Recipe 5",
+  "prepTime": "30 min",
+  "totalTime": "1 hr 5 min",
+  "serves": "15 people"
+},{
+  "_id": {
+    "$oid": "5f5993460750f302b8d85670"
+  },
+  "name": "Recipe 6",
+  "category": "appetizer",
+  "ingredients": "Recipe 6",
+  "instructions": "Recipe 6",
+  "prepTime": "15 min",
+  "totalTime": "1 hr 10 min",
+  "serves": "5 people"
+},{
+  "_id": {
+    "$oid": "5f59935d0750f302b8d85671"
+  },
+  "name": "Recipe 7",
+  "category": "sides",
+  "ingredients": "Recipe 7",
+  "instructions": "Recipe 7",
+  "prepTime": "20 min",
+  "totalTime": "50 min",
+  "serves": "8 people"
+},{
+  "_id": {
+    "$oid": "5f59936e0750f302b8d85672"
+  },
+  "name": "Recipe 8",
+  "category": "appetizer",
+  "ingredients": "Recipe 8",
+  "instructions": "Recipe 8",
+  "prepTime": "40 min",
+  "totalTime": "35 min",
+  "serves": "6 people"
+},{
+  "_id": {
+    "$oid": "5f5993810750f302b8d85673"
+  },
+  "name": "Recipe 9",
+  "category": "grill",
+  "ingredients": "Recipe 9",
+  "instructions": "Recipe 9",
+  "prepTime": "20 min",
+  "totalTime": "30 min",
+  "serves": "4 people"
+},{
+  "_id": {
+    "$oid": "5f5993960750f302b8d85674"
+  },
+  "name": "Recipe 10",
+  "category": "desserts",
+  "ingredients": "Recipe 10",
+  "instructions": "Recipe 10",
+  "prepTime": "25 min",
+  "totalTime": "30 min",
+  "serves": "6 people"
+},{
+  "_id": {
+    "$oid": "5f5998ec0750f302b8d85675"
+  },
+  "name": "jhfjhf",
+  "category": "salad",
+  "ingredients": "gdgfdhgd",
+  "instructions": "gfdhgfdhgfd",
+  "prepTime": "60 min",
+  "totalTime": "20 min",
+  "serves": "9 people"
+}]
